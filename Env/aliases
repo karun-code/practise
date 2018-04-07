@@ -1,0 +1,11 @@
+
+export BASE=$HOME/practise
+alias base='cd $BASE'
+
+export year='2017'
+export round='1B'
+alias 1='cd $BASE/CJ/CJ$year/$round/1'
+alias 2='cd $BASE/CJ/CJ$year/$round/2'
+alias 3='cd $BASE/CJ/CJ$year/$round/3'
+alias 4='cd $BASE/CJ/CJ$year/$round/4'
+alias 0='cd $BASE/CJ/'
